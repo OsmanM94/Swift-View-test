@@ -1,0 +1,2077 @@
+[
+    {
+        "id": 1001,
+        "exercise": "Declare a variable named 'greeting' containing the value: Hello",
+        "answer": ["var greeting = \"Hello\"", "var greeting = \"hello\""],
+        "userSolution": "",
+        "print": "print(greeting)",
+        "userPrint": "",
+        "console": "Hello"
+    },
+    
+    {
+        "id": 1002,
+        "exercise": "Declare a variable named 'person' containing the value: John",
+        "answer": ["var person = \"John\"", "var person = \"john\""],
+        "userSolution": "",
+        "print": "print(person)",
+        "userPrint": "",
+        "console": "John"
+    },
+    
+    {
+        "id": 1003,
+        "exercise": "Declare a variable named 'city' containing the value: Paris",
+        "answer": ["var city = \"Paris\"", "var city = \"paris\""],
+        "userSolution": "",
+        "print": "print(city)",
+        "userPrint": "",
+        "console": "Paris"
+    },
+    
+    {
+        "id": 1004,
+        "exercise": "Declare a variable named \"food\" containing the value: nuggets",
+        "answer": ["var food = \"Nuggets\"", "var food = \"nuggets\""],
+        "userSolution": "",
+        "print": "print(food)",
+        "userPrint": "",
+        "console": "nuggets"
+    },
+    
+    {
+        "id": 1005,
+        "exercise": "Declare a variable named 'country' containing the value: Italy",
+        "answer": ["var country = \"Italy\"", "var country = \"italy\""],
+        "userSolution": "",
+        "print": "print(country)",
+        "userPrint": "",
+        "console": "Italy"
+    },
+    
+    {
+        "id": 1006,
+        "exercise": "Declare a constant named 'car' containing the value: electric",
+        "answer": ["let car = \"electric\"", "let car = \"Electric\""],
+        "userSolution": "",
+        "print": "print(car)",
+        "userPrint": "",
+        "console": "electric"
+    },
+    
+    {
+        "id": 1007,
+        "exercise": "Declare a constant named 'favorite' containing the value: games",
+        "answer": ["let favorite = \"games\"", "let favorite = \"Games\""],
+        "userSolution": "",
+        "print": "print(favorite)",
+        "userPrint": "",
+        "console": "games"
+    },
+    
+    {
+        "id": 1008,
+        "exercise": "Declare a constant named 'planet' containing the value: Mars",
+        "answer": ["let planet = \"mars\"", "let planet = \"Mars\""],
+        "userSolution": "",
+        "print": "print(planet)",
+        "userPrint": "",
+        "console": "Mars"
+    },
+    
+    {
+        "id": 1009,
+        "exercise": "Declare a constant named 'type' containing the value: electric",
+        "answer": ["let type = \"electric\"","let type = \"Electric\""],
+        "userSolution": "",
+        "print": "print(type)",
+        "userPrint": "",
+        "console": "electric"
+    },
+    
+    {
+        "id": 1010,
+        "exercise": "Declare a constant named 'colour' containing the value: green",
+        "answer": ["let colour = \"green\"","let colour = \"Green\""],
+        "userSolution": "",
+        "print": "print(colour)",
+        "userPrint": "",
+        "console": "green"
+    },
+    
+    {
+        "id": 1011,
+        "exercise": "Declare a variable of type Int named 'house' containing the value: 5. You must specify the Data Type.",
+        "answer": ["var house: Int = 5"],
+        "userSolution": "",
+        "print": "print(house)",
+        "userPrint": "",
+        "console": "5"
+    },
+    
+    {
+        "id": 1012,
+        "exercise": "Declare a variable of type Int named 'doors' and assign the value: 2. You must specify the Data Type.",
+        "answer": ["var doors: Int = 2"],
+        "userSolution": "",
+        "print": "print(doors)",
+        "userPrint": "",
+        "console": "2"
+    },
+    
+    {
+        "id": 1013,
+        "exercise": "Declare a constant of type Int named 'windows' containing the value: 10. You must specify the Data Type.",
+        "answer": ["let windows: Int = 10"],
+        "userSolution": "",
+        "print": "print(windows)",
+        "userPrint": "",
+        "console": "10"
+    },
+    
+    {
+        "id": 1014,
+        "exercise": "Declare a constant of type Int named 'wheels' containing the value: 4. You must specify the Data Type.",
+        "answer": ["let wheels: Int = 4"],
+        "userSolution": "",
+        "print": "print(wheels)",
+        "userPrint": "",
+        "console": "4"
+    },
+    
+    {
+        "id": 1015,
+        "exercise": "Declare a constant named 'number' containing the value: 10.",
+        "answer": ["let number = 10"],
+        "userSolution": "",
+        "print": "print(number)",
+        "userPrint": "",
+        "console": "10"
+    },
+    
+    {
+        "id": 1016,
+        "exercise": "Declare a variable named 'items' containing the value: 4.",
+        "answer": ["var items = 4"],
+        "userSolution": "",
+        "print": "print(items)",
+        "userPrint": "",
+        "console": "4"
+    },
+    
+    {
+        "id": 1017,
+        "exercise": "Declare a variable named 'fruits' containing the value: 8.",
+        "answer": ["var fruits = 8"],
+        "userSolution": "",
+        "print": "print(fruits)",
+        "userPrint": "",
+        "console": "8"
+    },
+    
+    {
+        "id": 1018,
+        "exercise": "What is the keyword used to declare a variable in Swift?",
+        "answer": ["var"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1019,
+        "exercise": "What is the keyword used to declare a constant in Swift?",
+        "answer": ["let"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1020,
+        "exercise": "What is the keyword used to declare a Boolean in Swift?",
+        "answer": ["Bool"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1021,
+        "exercise": "Transform the following word into a comment: 'section'",
+        "answer": ["//section", "// section"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1022,
+        "exercise": "Transform the following word into a comment: 'list'",
+        "answer": ["//list", "// list"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1023,
+        "exercise": "What is the keyword used to declare a Double in Swift?",
+        "answer": ["Double"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1024,
+        "exercise": "What is the keyword used to declare a Struct in Swift?",
+        "answer": ["struct"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1025,
+        "exercise": "Change the value of the variable 'var name = Mike' to 'Chris' then print to the console.",
+        "answer": ["name = \"Chris\"", "name = \"chris\""],
+        "userSolution": "",
+        "print": "print(name)",
+        "userPrint": "",
+        "console": "Chris"
+    },
+
+    {
+        "id": 1026,
+        "exercise": "Change the value of the variable 'var genre = Pop' to 'Rock' then print to the console.",
+        "answer": ["genre = \"Rock\"", "genre = \"rock\""],
+        "userSolution": "",
+        "print": "print(genre)",
+        "userPrint": "",
+        "console": "Rock"
+    },
+    
+    {
+        "id": 1027,
+        "exercise": "Change the value of the variable 'var number = 5' to '10'",
+        "answer": ["number = 10"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1028,
+        "exercise": "Change the value of the variable 'var houses = 12' to '30'",
+        "answer": ["houses = 30"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1029,
+        "exercise": "Change the value of the variable 'var engines = 2' to '8' then print the new value to the console.",
+        "answer": ["engines = 8"],
+        "userSolution": "",
+        "print": "print(engines)",
+        "userPrint": "",
+        "console": "8"
+    },
+    
+    {
+        "id": 1030,
+        "exercise": "Declare a constant of type String named 'sauce' containing the value: ketchup. You must specify the Data Type.",
+        "answer": ["let sauce: String = \"ketchup\"", "let sauce: String = \"Ketchup\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1031,
+        "exercise": "Set the following variable 'var gameOver = false' to true.",
+        "answer": ["gameOver = true"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1032,
+        "exercise": "Set this value 'var isFavorite = true' to false then print to the console.",
+        "answer": ["isFavorite = false"],
+        "userSolution": "",
+        "print": "print(isFavorite)",
+        "userPrint": "",
+        "console": "false"
+    },
+    
+    {
+        "id": 1033,
+        "exercise": "What operator is used to assign a value?",
+        "answer": ["="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1034,
+        "exercise": "What operator is used to multiply?",
+        "answer": ["*"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1035,
+        "exercise": "What operator is used to substract?",
+        "answer": ["-"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1036,
+        "exercise": "var myScore = 10. Add 3 to myScore, then print myScore to the console.",
+        "answer": ["myScore += 3"],
+        "userSolution": "",
+        "print": "print(myScore)",
+        "userPrint": "",
+        "console": "13"
+    },
+    
+    {
+        "id": 1037,
+        "exercise": "var playerScore = 20. Add 5 to playerScore, then print to the console.",
+        "answer": ["playerScore += 5"],
+        "userSolution": "",
+        "print": "print(playerScore)",
+        "userPrint": "",
+        "console": "25"
+    },
+    
+    {
+        "id": 1038,
+        "exercise": "var score = 30. Substract 5 from score, then print to the console.",
+        "answer": ["score -= 5"],
+        "userSolution": "",
+        "print": "print(score)",
+        "userPrint": "",
+        "console": "25"
+    },
+    
+    {
+        "id": 1039,
+        "exercise": "var square = 10. Multiply square by 2, then print to the console.",
+        "answer": ["square *= 2"],
+        "userSolution": "",
+        "print": "print(square)",
+        "userPrint": "",
+        "console": "20"
+    },
+    
+    {
+        "id": 1040,
+        "exercise": "var rectangle = 20. Divide rectangle by 2, then print to the console.",
+        "answer": ["rectangle /= 2"],
+        "userSolution": "",
+        "print": "print(rectangle)",
+        "userPrint": "",
+        "console": "10"
+    },
+    
+    {
+        "id": 1041,
+        "exercise": "What operator is used to compare that two items must be equal? See Operators. ",
+        "answer": ["=="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1042,
+        "exercise": "What operator is used to compare that two items must NOT be equal to each other? See Operators. ",
+        "answer": ["!="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1043,
+        "exercise": "What operator is used to compare that value on the left must be greater than the value on the right? See Operators. ",
+        "answer": [">"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1044,
+        "exercise": "What operator is used to compare that value on the left must be greater than or equal to the value on the right? See Operators. ",
+        "answer": [">="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1045,
+        "exercise": "What operator is used to perform AND-The conditional statement on the left AND right must be true? See Operators.",
+        "answer": ["&&"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1046,
+        "exercise": "Declare a variable 'number' of type Int with the value 5.",
+        "answer": ["var number: Int = 5"],
+        "userSolution": "",
+        "print": "print(number)",
+        "userPrint": "",
+        "console": "5"
+    },
+    
+    {
+        "id": 1047,
+        "exercise": "Declare a constant 'temperature' of type Double with the value 25.5.",
+        "answer": ["let temperature: Double = 25.5"],
+        "userSolution": "",
+        "print": "print(temperature)",
+        "userPrint": "",
+        "console": "25.5"
+    },
+    
+    {
+        "id": 1048,
+        "exercise": "Declare a variable 'isRaining' of type Bool with the value true.",
+        "answer": ["var isRaining: Bool = true"],
+        "userSolution": "",
+        "print": "print(isRaining)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1049,
+        "exercise": "Declare a constant 'pi' of type Double with the value 3.14159.",
+        "answer": ["let pi: Double = 3.14159"],
+        "userSolution": "",
+        "print": "print(pi)",
+        "userPrint": "",
+        "console": "3.14159"
+    },
+    
+    {
+        "id": 1050,
+        "exercise": "Declare a variable 'language' of type String with the value 'Swift'.",
+        "answer": ["var language: String = \"Swift\""],
+        "userSolution": "",
+        "print": "print(language)",
+        "userPrint": "",
+        "console": "Swift"
+    },
+    
+    {
+        "id": 1051,
+        "exercise": "Declare a variable 'speed' of type Double with the value 60.5.",
+        "answer": ["var speed: Double = 60.5"],
+        "userSolution": "",
+        "print": "print(speed)",
+        "userPrint": "",
+        "console": "60.5"
+    },
+    
+    {
+        "id": 1052,
+        "exercise": "Declare a constant 'isSummer' of type Bool with the value true.",
+        "answer": ["let isSummer: Bool = true"],
+        "userSolution": "",
+        "print": "print(isSummer)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1053,
+        "exercise": "Declare a constant 'hourlyWage' of type Double with the value 25.75.",
+        "answer": ["let hourlyWage: Double = 25.75"],
+        "userSolution": "",
+        "print": "print(hourlyWage)",
+        "userPrint": "",
+        "console": "25.75"
+    },
+    
+    {
+        "id": 1054,
+        "exercise": "Declare a variable 'age' of type Int with the value 30.",
+        "answer": ["var age: Int = 30"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "30"
+    },
+    
+    {
+        "id": 1055,
+        "exercise": "Declare a constant 'isWinter' of type Bool with the value false.",
+        "answer": ["let isWinter: Bool = false"],
+        "userSolution": "",
+        "print": "print(isWinter)",
+        "userPrint": "",
+        "console": "false"
+    },
+    
+    {
+        "id": 1056,
+        "exercise": "Declare a variable 'x' and set it to 10. Increment 'x' by 1 and print the result to the console.",
+        "answer": ["var x = 10", "x += 1"],
+        "userSolution": "",
+        "print": "print(x)",
+        "userPrint": "",
+        "console": "11"
+    },
+    
+    {
+        "id": 1057,
+        "exercise": "Declare a variable 'y' and set it to 20. Decrement 'y' by 1 and print the result to the console.",
+        "answer": ["var y = 20", "y -= 1"],
+        "userSolution": "",
+        "print": "print(y)",
+        "userPrint": "",
+        "console": "19"
+    },
+    
+    {
+        "id": 1058,
+        "exercise": "Declare a variable 'a' and set it to 5. Increment 'a' by 2 and print the result to the console.",
+        "answer": ["var a = 5", "a += 2"],
+        "userSolution": "",
+        "print": "print(a)",
+        "userPrint": "",
+        "console": "7"
+    },
+    
+    {
+        "id": 1059,
+        "exercise": "Declare a variable 'b' and set it to 15. Decrement 'b' by 3 and print the result to the console.",
+        "answer": ["var b = 15", "b -= 3"],
+        "userSolution": "",
+        "print": "print(b)",
+        "userPrint": "",
+        "console": "12"
+    },
+    
+    {
+        "id": 1060,
+        "exercise": "Declare a variable 'result' and set it to 10. Add 5 to 'result' and print the result to the console.",
+        "answer": ["var result = 10", "result += 5"],
+        "userSolution": "",
+        "print": "print(result)",
+        "userPrint": "",
+        "console": "15"
+    },
+    
+    {
+        "id": 1061,
+        "exercise": "Declare a variable 'total' and set it to 20. Subtract 8 from 'total' and print the result to the console.",
+        "answer": ["var total = 20", "total -= 8"],
+        "userSolution": "",
+        "print": "print(total)",
+        "userPrint": "",
+        "console": "12"
+    },
+    
+    {
+        "id": 1062,
+        "exercise": "Declare a variable 'product' and set it to 5. Multiply 'product' by 3 and print the result to the console.",
+        "answer": ["var product = 5", "product *= 3"],
+        "userSolution": "",
+        "print": "print(product)",
+        "userPrint": "",
+        "console": "15"
+    },
+    
+    {
+        "id": 1063,
+        "exercise": "Declare a variable 'division' and set it to 20. Divide 'division' by 4 and print the result to the console.",
+        "answer": ["var division = 20", "division /= 4"],
+        "userSolution": "",
+        "print": "print(division)",
+        "userPrint": "",
+        "console": "5"
+    },
+    
+    {
+        "id": 1064,
+        "exercise": "Declare a constant array 'fruits' containing the following fruits: apple, orange. Make sure to assign quotes for each element.",
+        "answer": ["let fruits = [\"apple\", \"orange\"]"],
+        "userSolution": "",
+        "print": "print(fruits)",
+        "userPrint": "",
+        "console": "[\"apple\", \"orange\"]"
+    },
+    
+    {
+        "id": 1065,
+        "exercise": "Declare a constant array 'colors' containing the following colors: red, green. Make sure to assign quotes for each element.",
+        "answer": ["let colors = [\"red\", \"green\"]"],
+        "userSolution": "",
+        "print": "print(colors)",
+        "userPrint": "",
+        "console": "[\"red\", \"green\"]"
+    },
+    
+    {
+        "id": 1066,
+        "exercise": "Declare a constant array 'numbers' containing the following numbers: 5, 10, 15, and 20.",
+        "answer": ["let numbers = [5, 10, 15, 20]"],
+        "userSolution": "",
+        "print": "print(numbers)",
+        "userPrint": "",
+        "console": "[5, 10, 15, 20]"
+    },
+    
+    {
+        "id": 1067,
+        "exercise": "Declare a constant array 'days' containing the following days of the week: Monday, Tuesday. Make sure to assign quotes for each element.",
+        "answer": ["let days = [\"Monday\", \"Tuesday\"]", "let days = [\"monday\", \"tuesday\"]"],
+        "userSolution": "",
+        "print": "print(days)",
+        "userPrint": "",
+        "console": "[\"Monday\", \"Tuesday\"]"
+    },
+    
+    {
+        "id": 1069,
+        "exercise": "Declare a constant set 'evenNumbers' containing the following even numbers: 2, 4, 6, 8, 10.",
+        "answer": ["let evenNumbers: Set = [2, 4, 6, 8, 10]"],
+        "userSolution": "",
+        "print": "print(evenNumbers)",
+        "userPrint": "",
+        "console": "[4, 6, 8, 10, 2]"
+    },
+    
+    {
+        "id": 1070,
+        "exercise": "Declare a constant set 'oddNumbers' containing the following odd numbers: 1, 3, 5, 7, 9.",
+        "answer": ["let oddNumbers: Set = [1, 3, 5, 7, 9]"],
+        "userSolution": "",
+        "print": "print(oddNumbers)",
+        "userPrint": "",
+        "console": "[1, 3, 5, 9, 7]"
+    },
+    
+    {
+        "id": 1071,
+        "exercise": "Declare a constant set 'primeNumbers' containing the following prime numbers: 2, 3, 5, 7, 11",
+        "answer": ["let primeNumbers: Set = [2, 3, 5, 7, 11]"],
+        "userSolution": "",
+        "print": "print(primeNumbers)",
+        "userPrint": "",
+        "console": "[5, 3, 11, 7, 2]"
+    },
+    
+    {
+        "id": 1074,
+        "exercise": "How do you check if an Array is empty in Swift?",
+        "answer": ["array.isEmpty"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1075,
+        "exercise": "How do you check if a Set is empty in Swift?",
+        "answer": ["set.isEmpty"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1076,
+        "exercise": "How do you check if a Dictionary is empty in Swift?",
+        "answer": ["dictionary.isEmpty"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1077,
+        "exercise": "How do you add an element to an Array in Swift?",
+        "answer": ["array.append(element)"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1078,
+        "exercise": "How do you add an element to a Set in Swift?",
+        "answer": ["set.insert(element)"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1079,
+        "exercise": "How do you remove an element from an Array in Swift?",
+        "answer": ["array.remove(at: index)"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1080,
+        "exercise": "How do you remove an element from a Set in Swift?",
+        "answer": ["set.remove(element)"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1082,
+        "exercise": "What is the method used to count the number of elements in an Array in Swift?",
+        "answer": ["array.count"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1083,
+        "exercise": "What is the method used to count the number of elements in a Set in Swift?",
+        "answer": ["set.count"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1084,
+        "exercise": "What is the method used to count the number of elements in a Dictionary in Swift?",
+        "answer": ["dictionary.count"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1086,
+        "exercise": "Declare a variable 'isDay' of type Bool with the value: true.",
+        "answer": ["var isDay: Bool = true"],
+        "userSolution": "",
+        "print": "print(isDay)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1087,
+        "exercise": "Declare a constant 'numberOfHours' of type Int with the value: 24.",
+        "answer": ["let numberOfHours: Int = 24"],
+        "userSolution": "",
+        "print": "print(numberOfHours)",
+        "userPrint": "",
+        "console": "24"
+    },
+    
+    {
+        "id": 1088,
+        "exercise": "Declare a constant 'rate' of type Double with the value: 6.5.",
+        "answer": ["let rate: Double = 6.5"],
+        "userSolution": "",
+        "print": "print(rate)",
+        "userPrint": "",
+        "console": "6.5"
+    },
+    
+    {
+        "id": 1089,
+        "exercise": "Declare a variable 'progress' of type Float with the value: 0.7.",
+        "answer": ["var progress: Float = 0.7"],
+        "userSolution": "",
+        "print": "print(progress)",
+        "userPrint": "",
+        "console": "0.7"
+    },
+    
+    {
+        "id": 1090,
+        "exercise": "Declare a variable 'isNight' of type Bool with the value: false.",
+        "answer": ["var isNight: Bool = false"],
+        "userSolution": "",
+        "print": "print(isNight)",
+        "userPrint": "",
+        "console": "false"
+    },
+    
+    {
+        "id": 1091,
+        "exercise": "Declare a constant 'numberOfMonths' of type Int with the value: 12.",
+        "answer": ["let numberOfMonths: Int = 12"],
+        "userSolution": "",
+        "print": "print(numberOfMonths)",
+        "userPrint": "",
+        "console": "12"
+    },
+    
+    {
+        "id": 1092,
+        "exercise": "Declare a constant 'interestRate' of type Double with the value: 0.05.",
+        "answer": ["let interestRate: Double = 0.05"],
+        "userSolution": "",
+        "print": "print(interestRate)",
+        "userPrint": "",
+        "console": "0.05"
+    },
+    
+    {
+        "id": 1093,
+        "exercise": "Declare a variable 'isWorking' of type Bool with the value: true.",
+        "answer": ["var isWorking: Bool = true"],
+        "userSolution": "",
+        "print": "print(isWorking)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1094,
+        "exercise": "Declare a constant 'radius' of type Double with the value: 5.0.",
+        "answer": ["let radius: Double = 5.0"],
+        "userSolution": "",
+        "print": "print(radius)",
+        "userPrint": "",
+        "console": "5.0"
+    },
+    
+    {
+        "id": 1095,
+        "exercise": "Declare a constant 'percentage' of type Double with the value: 0.85.",
+        "answer": ["let percentage: Double = 0.85"],
+        "userSolution": "",
+        "print": "print(percentage)",
+        "userPrint": "",
+        "console": "0.85"
+    },
+    
+    {
+        "id": 1096,
+        "exercise": "Declare a variable 'height' of type Double with the value: 6.2.",
+        "answer": ["var height: Double = 6.2"],
+        "userSolution": "",
+        "print": "print(height)",
+        "userPrint": "",
+        "console": "6.2"
+    },
+
+    {
+        "id": 1097,
+        "exercise": "Declare a constant 'population' of type Int with the value: 8_000_000. In Swift you can use underscore for large ugly numbers.",
+        "answer": ["let population: Int = 8_000_000"],
+        "userSolution": "",
+        "print": "print(population)",
+        "userPrint": "",
+        "console": "8_000_000"
+    },
+
+    {
+        "id": 1098,
+        "exercise": "Declare a constant 'taxRate' of type Double with the value: 0.20.",
+        "answer": ["let taxRate: Double = 0.20"],
+        "userSolution": "",
+        "print": "print(taxRate)",
+        "userPrint": "",
+        "console": "0.2"
+    },
+
+    {
+        "id": 1099,
+        "exercise": "Declare a variable 'weight' of type Float with the value: 73.5.",
+        "answer": ["var weight: Float = 73.5"],
+        "userSolution": "",
+        "print": "print(weight)",
+        "userPrint": "",
+        "console": "73.5"
+    },
+
+    {
+        "id": 1100,
+        "exercise": "Declare a variable 'isEvening' of type Bool with the value: true.",
+        "answer": ["var isEvening: Bool = true"],
+        "userSolution": "",
+        "print": "print(isEvening)",
+        "userPrint": "",
+        "console": "true"
+    },
+
+    {
+        "id": 1101,
+        "exercise": "Declare a constant 'numberOfDays' of type Int with the value: 365.",
+        "answer": ["let numberOfDays: Int = 365"],
+        "userSolution": "",
+        "print": "print(numberOfDays)",
+        "userPrint": "",
+        "console": "365"
+    },
+    
+    {
+        "id": 1102,
+        "exercise": "Declare a constant 'age' and set it to 25. Subtract 5 from 'age' and print the result to the console.",
+        "answer": ["let age = 25", "age -= 5"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "20"
+    },
+    
+    {
+        "id": 1103,
+        "exercise": "Declare a variable 'height' and set it to 180. Divide 'height' by 2 and print the result to the console.",
+        "answer": ["var height = 180", "height /= 2"],
+        "userSolution": "",
+        "print": "print(height)",
+        "userPrint": "",
+        "console": "90"
+    },
+    
+    {
+        "id": 1104,
+        "exercise": "Declare a constant 'width' and set it to 50. Add 20 to 'width' and print the result to the console.",
+        "answer": ["let width = 50", "width += 20"],
+        "userSolution": "",
+        "print": "print(width)",
+        "userPrint": "",
+        "console": "70"
+    },
+    
+    {
+        "id": 1105,
+        "exercise": "Declare a variable 'value' and set it to 100. Subtract 50 from 'value' and print the result to the console.",
+        "answer": ["var value = 100", "value -= 50"],
+        "userSolution": "",
+        "print": "print(value)",
+        "userPrint": "",
+        "console": "50"
+    },
+    
+    {
+        "id": 1106,
+        "exercise": "Declare a constant 'quantity' and set it to 10. Add 5 to 'quantity' and print the result to the console.",
+        "answer": ["let quantity = 10", "quantity += 5"],
+        "userSolution": "",
+        "print": "print(quantity)",
+        "userPrint": "",
+        "console": "15"
+    },
+    
+    {
+        "id": 1107,
+        "exercise": "Declare a variable 'price' and set it to 200. Subtract 100 from 'price' and print the result to the console.",
+        "answer": ["var price = 200", "price -= 100"],
+        "userSolution": "",
+        "print": "print(price)",
+        "userPrint": "",
+        "console": "100"
+    },
+    
+    {
+        "id": 1108,
+        "exercise": "Declare a constant 'temperature' and set it to 30. Add 10 to 'temperature' and print the result to the console.",
+        "answer": ["let temperature = 30", "temperature += 10"],
+        "userSolution": "",
+        "print": "print(temperature)",
+        "userPrint": "",
+        "console": "40"
+    },
+    
+    {
+        "id": 1109,
+        "exercise": "Declare a variable 'count' and set it to 1000. Divide 'count' by 2 and print the result to the console.",
+        "answer": ["var count = 1000", "count /= 2"],
+        "userSolution": "",
+        "print": "print(count)",
+        "userPrint": "",
+        "console": "500"
+    },
+    
+    {
+        "id": 1110,
+        "exercise": "Declare an empty array named 'numbers' with Int data type.",
+        "answer": ["var numbers: [Int] = []"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1111,
+        "exercise": "Declare an empty array named 'fruits' with String data type.",
+        "answer": ["var fruits: [String] = []"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1112,
+        "exercise": "Declare an empty array named 'temperatures' with Double data type.",
+        "answer": ["var temperatures: [Double] = []"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1113,
+        "exercise": "Declare an empty array named 'flags' with Bool data type.",
+        "answer": ["var flags: [Bool] = []"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1114,
+        "exercise": "What is the operator used to check if the value on the left side is less than the value on the right side?",
+        "answer": ["<"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1115,
+        "exercise": "What is the operator used to check if the value on the left side is less than or equal to the value on the right side?",
+        "answer": ["<="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1116,
+        "exercise": "What operator is used to check if two values are not equal? See Operators.",
+        "answer": ["!="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1117,
+        "exercise": "What is the operator used to check if the value on the left side is greater than the value on the right side? See Operators.",
+        "answer": [">"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1118,
+        "exercise": "What is the operator used to check if the value on the left side is greater than or equal to the value on the right side? See Operators.",
+        "answer": [">="],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1119,
+        "exercise": "What operator is used to add two values? See Operators.",
+        "answer": ["+"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1120,
+        "exercise": "What operator is used to subtract two values? See Operators.",
+        "answer": ["-"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1121,
+        "exercise": "What operator is used to multiply two values? See Operators.",
+        "answer": ["*"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1122,
+        "exercise": "What operator is used to divide two values? See Operators.",
+        "answer": ["/"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1123,
+        "exercise": "Given the array [1, 2, 3, 4, 5], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1124,
+        "exercise": "Given the array ['apple', 'banana', 'orange'], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1125,
+        "exercise": "Given the array [true, false, true], how do you access the first element?",
+        "answer": ["array[0]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1126,
+        "exercise": "Given the array [10, 20, 30, 40, 50], how do you access the fourth element?",
+        "answer": ["array[3]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1127,
+        "exercise": "Given the array ['dog', 'cat', 'bird', 'fish'], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1128,
+        "exercise": "Given the array [1.5, 2.5, 3.5, 4.5], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1129,
+        "exercise": "Given the array [true, true, false, true], how do you access the fourth element?",
+        "answer": ["array[3]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1130,
+        "exercise": "Given the array ['Monday', 'Tuesday', 'Wednesday'], how do you access the first element?",
+        "answer": ["array[0]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1131,
+        "exercise": "Declare a variable 'salary' of type Double with the value: 45000.0.",
+        "answer": ["var salary: Double = 45000.0"],
+        "userSolution": "",
+        "print": "print(salary)",
+        "userPrint": "",
+        "console": "45000.0"
+    },
+    
+    {
+        "id": 1132,
+        "exercise": "Declare a constant 'monthsInYear' of type Int with the value: 12.",
+        "answer": ["let monthsInYear: Int = 12"],
+        "userSolution": "",
+        "print": "print(monthsInYear)",
+        "userPrint": "",
+        "console": "12"
+    },
+    
+    {
+        "id": 1133,
+        "exercise": "Declare a variable 'distance' of type Float with the value: 125.45.",
+        "answer": ["var distance: Float = 125.45"],
+        "userSolution": "",
+        "print": "print(distance)",
+        "userPrint": "",
+        "console": "125.45"
+    },
+    
+    {
+        "id": 1134,
+        "exercise": "Declare a constant 'earthGravity' of type Double with the value: 9.81.",
+        "answer": ["let earthGravity: Double = 9.81"],
+        "userSolution": "",
+        "print": "print(earthGravity)",
+        "userPrint": "",
+        "console": "9.81"
+    },
+    
+    {
+        "id": 1135,
+        "exercise": "Declare a variable 'isFinished' of type Bool with the value: true.",
+        "answer": ["var isFinished: Bool = true"],
+        "userSolution": "",
+        "print": "print(isFinished)",
+        "userPrint": "",
+        "console": "true"
+    },
+    {
+        "id": 1136,
+        "exercise": "Declare a variable 'price' of type Float with the value: 29.99.",
+        "answer": ["var price: Float = 29.99"],
+        "userSolution": "",
+        "print": "print(price)",
+        "userPrint": "",
+        "console": "29.99"
+    },
+    {
+        "id": 1137,
+        "exercise": "Declare a constant 'numberOfStudents' of type Int with the value: 50.",
+        "answer": ["let numberOfStudents: Int = 50"],
+        "userSolution": "",
+        "print": "print(numberOfStudents)",
+        "userPrint": "",
+        "console": "50"
+    },
+    
+    {
+        "id": 1138,
+        "exercise": "Declare a variable 'price' and set it to 15. Add 5 to 'price', then print the result to the console.",
+        "answer": ["var price = 15", "price += 5"],
+        "userSolution": "",
+        "print": "print(price)",
+        "userPrint": "",
+        "console": "20"
+    },
+    
+    {
+        "id": 1139,
+        "exercise": "Declare a variable 'quantity' and set it to 100. Subtract 20 from 'quantity', then print the result to the console.",
+        "answer": ["var quantity = 100", "quantity -= 20"],
+        "userSolution": "",
+        "print": "print(quantity)",
+        "userPrint": "",
+        "console": "80"
+    },
+    
+    {
+        "id": 1140,
+        "exercise": "Declare a variable 'age' and set it to 30. Multiply 'age' by 2, then print the result to the console.",
+        "answer": ["var age = 30", "age *= 2"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "60"
+    },
+    
+    {
+        "id": 1141,
+        "exercise": "Declare a variable 'numberOfApples' and set it to 50. Divide 'numberOfApples' by 5, then print the result to the console.",
+        "answer": ["var numberOfApples = 50", "numberOfApples /= 5"],
+        "userSolution": "",
+        "print": "print(numberOfApples)",
+        "userPrint": "",
+        "console": "10"
+    },
+    
+    {
+        "id": 1142,
+        "exercise": "Declare a variable 'savings' and set it to 500. Increase 'savings' by 200, then print the result to the console.",
+        "answer": ["var savings = 500", "savings += 200"],
+        "userSolution": "",
+        "print": "print(savings)",
+        "userPrint": "",
+        "console": "700"
+    },
+    
+    {
+        "id": 1143,
+        "exercise": "Declare a variable 'height' and set it to 180. Decrease 'height' by 10, then print the result to the console.",
+        "answer": ["var height = 180", "height -= 10"],
+        "userSolution": "",
+        "print": "print(height)",
+        "userPrint": "",
+        "console": "170"
+    },
+    
+    {
+        "id": 1144,
+        "exercise": "Declare a variable 'salary' and set it to 4500. Divide 'salary' by 2, then print the result to the console.",
+        "answer": ["var salary = 4500", "salary /= 2"],
+        "userSolution": "",
+        "print": "print(salary)",
+        "userPrint": "",
+        "console": "2250"
+    },
+    
+    {
+        "id": 1145,
+        "exercise": "Declare a variable 'temperature' and set it to 98.6. Add 1.4 to 'temperature', then print the result to the console.",
+        "answer": ["var temperature = 98.6", "temperature += 1.4"],
+        "userSolution": "",
+        "print": "print(temperature)",
+        "userPrint": "",
+        "console": "100.0"
+    },
+    
+    {
+        "id": 1146,
+        "exercise": "Declare a variable 'distance' and set it to 500. Subtract 27.5 from 'distance', then print the result to the console.",
+        "answer": ["var distance = 500.0", "distance -= 27.5"],
+        "userSolution": "",
+        "print": "print(distance)",
+        "userPrint": "",
+        "console": "472.5"
+    },
+    
+    {
+        "id": 1147,
+        "exercise": "Declare a variable 'time' and set it to 125. Multiply 'time' by 2.5, then print the result to the console.",
+        "answer": ["var time = 125", "time *= 2.5"],
+        "userSolution": "",
+        "print": "print(time)",
+        "userPrint": "",
+        "console": "312.5"
+    },
+    
+    {
+        "id": 1148,
+        "exercise": "Declare a variable 'weight' and set it to 185. Divide 'weight' by 4.6, then print the result to the console.",
+        "answer": ["var weight = 185", "weight /= 4.6"],
+        "userSolution": "",
+        "print": "print(weight)",
+        "userPrint": "",
+        "console": "40.21739130434783"
+    },
+    
+    {
+        "id": 1149,
+        "exercise": "Declare a variable 'total' and set it to 1000. Increase 'total' by 27.89, then print the result to the console.",
+        "answer": ["var total = 1000", "total += 27.89"],
+        "userSolution": "",
+        "print": "print(total)",
+        "userPrint": "",
+        "console": "1027.89"
+    },
+    
+    {
+        "id": 1150,
+        "exercise": "Declare a variable 'pressure' and set it to 150. Decrease 'pressure' by 3.75, then print the result to the console.",
+        "answer": ["var pressure = 150", "pressure -= 3.75"],
+        "userSolution": "",
+        "print": "print(pressure)",
+        "userPrint": "",
+        "console": "146.25"
+    },
+    
+    {
+        "id": 1151,
+        "exercise": "Declare a variable 'age' and set it to 42. Divide 'age' by 5.25, then print the result to the console.",
+        "answer": ["var age = 42", "age /= 5.25"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "8.0"
+    },
+    
+    {
+        "id": 1162,
+        "exercise": "Declare an array named 'colors' with the following elements: ['Red', 'Green']. Remove the element at index 0.",
+        "answer": ["var colors = [\"Red\", \"Green\"]", "colors.remove(at: 0)"],
+        "userSolution": "",
+        "print": "print(colors)",
+        "userPrint": "",
+        "console": "[\"Green\"]"
+    },
+    
+    {
+        "id": 1163,
+        "exercise": "Declare an array named 'animals' with the following elements: ['Dog', 'Cat']. Remove the element at index 0.",
+        "answer": ["var animals = [\"Dog\", \"Cat\"]", "animals.remove(at: 0)"],
+        "userSolution": "",
+        "print": "print(animals)",
+        "userPrint": "",
+        "console": "[\"Cat\"]"
+    },
+    
+    {
+        "id": 1165,
+        "exercise": "Change the value of the variable 'var number = 10' to '20'",
+        "answer": ["var number = 20"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1166,
+        "exercise": "Change the value of the variable 'var x = 15' to '25'",
+        "answer": ["x = 25"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1167,
+        "exercise": "Change the value of the variable 'var y = 100' to '200'",
+        "answer": ["y = 200"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1168,
+        "exercise": "Change the value of the variable 'var temperature = 25.0' to '30.0'",
+        "answer": ["temperature = 30.0"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1169,
+        "exercise": "Change the value of the variable 'var age = 21' to '22'",
+        "answer": ["age = 22"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1170,
+        "exercise": "Change the value of the variable 'var count = 1000' to '2000'",
+        "answer": ["count = 2000"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1171,
+        "exercise": "Change the value of the variable 'var height = 180' to '185'",
+        "answer": ["height = 185"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1172,
+        "exercise": "Change the value of the variable 'var weight = 75.5' to '80.0'",
+        "answer": ["weight = 80.0"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1173,
+        "exercise": "Change the value of the variable 'var name = \"John\"' to 'Jack'",
+        "answer": ["name = \"Jack\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1174,
+        "exercise": "Change the value of the variable 'var city = \"New York\"' to 'Los Angeles'",
+        "answer": ["city = \"Los Angeles\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1175,
+        "exercise": "Change the value of the variable 'var country = \"France\"' to 'Italy'",
+        "answer": ["country = \"Italy\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1177,
+        "exercise": "Change the value of the variable 'var fruit = \"Apple\"' to 'Banana'",
+        "answer": ["fruit = \"Banana\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1178,
+        "exercise": "Declare an array named 'numbers' with the following elements: [1, 2, 3, 4, 5]. Remove the last element.",
+        "answer": ["var numbers = [1, 2, 3, 4, 5]", "numbers.removeLast()"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1199,
+        "exercise": "let numbers = [1, 2, 3, 4, 5]. Double the elements using map. Store the result in a constant named 'doubled'.",
+        "answer": ["let doubled = numbers.map { $0 * 2 } "],
+        "userSolution": "",
+        "print": "print(doubled)",
+        "userPrint": "",
+        "console": "[2, 4, 6, 8, 10]"
+    },
+    
+    {
+        "id": 1200,
+        "exercise": "Filter even numbers. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'evens'.",
+        "answer": ["let evens = numbers.filter { $0 % 2 == 0 }"],
+        "userSolution": "",
+        "print": "print(evens)",
+        "userPrint": "",
+        "console": "[2, 4]"
+    },
+    
+    {
+        "id": 1201,
+        "exercise": "Calculate the sum of elements. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'sum'.",
+        "answer": ["let sum = numbers.reduce(0, +)"],
+        "userSolution": "",
+        "print": "print(sum)",
+        "userPrint": "",
+        "console": "15"
+    },
+    
+    {
+        "id": 1203,
+        "exercise": "Get the last two elements of the array. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'lastTwo'.",
+        "answer": ["let lastTwo = Array(numbers.suffix(2))"],
+        "userSolution": "",
+        "print": "print(lastTwo)",
+        "userPrint": "",
+        "console": "[4, 5]"
+    },
+    
+    {
+        "id": 1204,
+        "exercise": "Check if the array contains the number 3. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'containsThree'.",
+        "answer": ["let containsThree = numbers.contains(3)"],
+        "userSolution": "",
+        "print": "print(containsThree)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1205,
+        "exercise": "Calculate the product of all elements. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'product'.",
+        "answer": ["let product = numbers.reduce(1, *)"],
+        "userSolution": "",
+        "print": "print(product)",
+        "userPrint": "",
+        "console": "120"
+    },
+    
+    {
+        "id": 1206,
+        "exercise": "Get the index of the number 3 in the array. 'let numbers = [1, 2, 3, 4, 5]'. Store the result in a constant named 'indexThree'.",
+        "answer": ["let indexThree = numbers.firstIndex(of: 3)"],
+        "userSolution": "",
+        "print": "print(indexThree)",
+        "userPrint": "",
+        "console": "2"
+    },
+    
+    {
+        "id": 1213,
+        "exercise": "Set the variable 'age' to 30. Specify the Data Type.",
+        "answer": ["var age: Int = 30"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "30"
+    },
+    
+    {
+        "id": 1214,
+        "exercise": "Set the variable 'price' to 29.99. Specify the Data Type.",
+        "answer": ["var price: Double = 29.99"],
+        "userSolution": "",
+        "print": "print(price)",
+        "userPrint": "",
+        "console": "29.99"
+    },
+    
+    {
+        "id": 1215,
+        "exercise": "Set the variable 'isAvailable' to true. Specify the Data Type.",
+        "answer": ["var isAvailable: Bool = true"],
+        "userSolution": "",
+        "print": "print(isAvailable)",
+        "userPrint": "",
+        "console": "true"
+    },
+    
+    {
+        "id": 1216,
+        "exercise": "Set the variable 'initial' to 'A'. ",
+        "answer": ["var initial: Character = \"A\""],
+        "userSolution": "",
+        "print": "print(initial)",
+        "userPrint": "",
+        "console": "A"
+    },
+    
+    {
+        "id": 1217,
+        "exercise": "Set the variable 'isLogged' to false. Specify the Data Type.",
+        "answer": ["var isLogged: Bool = false"],
+        "userSolution": "",
+        "print": "print(isLogged)",
+        "userPrint": "",
+        "console": "false"
+    },
+    
+    {
+        "id": 1218,
+        "exercise": "Generate a UUID and assign it to the variable 'id'.",
+        "answer": ["var id = UUID()"],
+        "userSolution": "",
+    },
+    
+    {
+        "id": 1219,
+        "exercise": "Check if 5 is greater than 3.",
+        "answer": ["5 > 3"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1220,
+        "exercise": "Check if 10 is less than 15.",
+        "answer": ["10 < 15"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1221,
+        "exercise": "Check if 6 is equal to 6.",
+        "answer": ["6 == 6"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1222,
+        "exercise": "Check if 10 is not equal to 15.",
+        "answer": ["10 != 15"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1223,
+        "exercise": "Check if 10 is less than or equal to 10.",
+        "answer": ["10 <= 10"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1224,
+        "exercise": "Check if 15 is greater than or equal to 10.",
+        "answer": ["15 >= 10"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1225,
+        "exercise": "Check if 'apple' is equal to 'apple'.",
+        "answer": ["apple == apple"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1226,
+        "exercise": "Check if 'apple' is not equal to 'banana'.",
+        "answer": ["apple != banana"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1227,
+        "exercise": "Check if 'banana' is less than 'orange'.",
+        "answer": ["banana < orange"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1228,
+        "exercise": "Check if 'apple' is greater than 'cherry'.",
+        "answer": ["apple > cherry"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1229,
+        "exercise": "Check if 'car' is less than or equal to 'bus'.",
+        "answer": ["car <= bus"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1230,
+        "exercise": "Check if 'banana' is greater than or equal to 'banana'.",
+        "answer": ["banana >= banana"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1231,
+        "exercise": "Check if 100 is equal to 100.",
+        "answer": ["100 == 100"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1232,
+        "exercise": "Check if 10 is not equal to 20.",
+        "answer": ["10 != 20"],
+        "userSolution": ""
+    },
+    
+    
+    {
+        "id": 1233,
+        "exercise": "Comment out 'name'.",
+        "answer": ["// name"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1234,
+        "exercise": "Comment out 'city'.",
+        "answer": ["// city"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1235,
+        "exercise": "Comment out 'address'.",
+        "answer": ["// address"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1236,
+        "exercise": "Comment out 'phoneNumber'.",
+        "answer": ["// phoneNumber"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1237,
+        "exercise": "Check if 5 is positive. Return true if it's greater than 0.",
+        "answer": ["if 5 > 0 { return true }"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1238,
+        "exercise": "Check if 10 is positive. Return true if it's greater than 0.",
+        "answer": ["if 10 > 0 { return true }"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1239,
+        "exercise": "Check if 15 is negative. Return true if it's less than 0.",
+        "answer": ["if 15 < 0 { return true }"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1240,
+        "exercise": "Check if 100 is even. Return true if it is.",
+        "answer": ["if 100 % 2 == 0 { return true }"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1244,
+        "exercise": "Create a variable named 'age' and set its value to 45.",
+        "answer": ["var age = 45"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "45"
+    },
+    
+    {
+        "id": 1246,
+        "exercise": "Create a variable named 'name' and set its value to 'Mark'.",
+        "answer": ["var name = \"Mark\""],
+        "userSolution": "",
+        "print": "print(name)",
+        "userPrint": "",
+        "console": "Mark"
+    },
+    
+    {
+        "id": 1247,
+        "exercise": "Create a constant named 'isRaining' and set its value to false.",
+        "answer": ["let isRaining = false"],
+        "userSolution": "",
+        "print": "print(isRaining)",
+        "userPrint": "",
+        "console": "false"
+    },
+    
+    {
+        "id": 1248,
+        "exercise": "Create a variable named 'temperature' and set its value to 25.7.",
+        "answer": ["var temperature = 25.7"],
+        "userSolution": "",
+        "print": "print(temperature)",
+        "userPrint": "",
+        "console": "25.7"
+    },
+    
+    {
+        "id": 1249,
+        "exercise": "Change the value of the variable 'var price = 20.0' to '15.5' then print to the console.",
+        "answer": ["price = 15.5"],
+        "userSolution": "",
+        "print": "print(price)",
+        "userPrint": "",
+        "console": "15.5"
+    },
+    
+    {
+        "id": 1250,
+        "exercise": "Change the value of the variable 'var year = 2023' to '2025' then print to the console.",
+        "answer": ["year = 2025"],
+        "userSolution": "",
+        "print": "print(year)",
+        "userPrint": "",
+        "console": "2025"
+    },
+    
+    {
+        "id": 1251,
+        "exercise": "Change the value of the constant 'let city = \"Paris\"' to 'London' then print to the console.",
+        "answer": ["city = \"London\""],
+        "userSolution": "",
+        "print": "print(city)",
+        "userPrint": "",
+        "console": "London"
+    },
+    
+    {
+        "id": 1252,
+        "exercise": "Change the value of the variable 'var age = 30' to '35' then print to the console.",
+        "answer": ["age = 35"],
+        "userSolution": "",
+        "print": "print(age)",
+        "userPrint": "",
+        "console": "35"
+    },
+    
+    {
+        "id": 1253,
+        "exercise": "Change the value of the variable 'var count = 100' to '75' then print to the console.",
+        "answer": ["count = 75"],
+        "userSolution": "",
+        "print": "print(count)",
+        "userPrint": "",
+        "console": "75"
+    },
+    
+    {
+        "id": 1254,
+        "exercise": "What is the keyword used to define an Enum in Swift?.",
+        "answer": ["enum"],
+        "userSolution": "",
+    },
+    
+    {
+        "id": 1255,
+        "exercise": "What is the keyword used to define a Class in Swift ?.",
+        "answer": ["class"],
+        "userSolution": "",
+    },
+    
+    {
+        "id": 1256,
+        "exercise": "What is the keyword used to declare a variable in Swift?",
+        "answer": ["var"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1257,
+        "exercise": "What is the keyword used to declare a constant in Swift?",
+        "answer": ["let"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1258,
+        "exercise": "What is the keyword used to declare a function in Swift?",
+        "answer": ["func"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1259,
+        "exercise": "How do you indicate a value may be absent in Swift?",
+        "answer": ["?"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1260,
+        "exercise": "What is the keyword used to start a conditional block in Swift?",
+        "answer": ["if"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1261,
+        "exercise": "What is the keyword used to start a loop in Swift?",
+        "answer": ["for"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1262,
+        "exercise": "Create a constant named 'pi' with the value 3.14.",
+        "answer": ["let pi = 3.14"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1263,
+        "exercise": "Create a string variable named 'username' and assign it the value 'user123'.",
+        "answer": ["var username = \"user123\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1264,
+        "exercise": "Declare a constant 'numberOfItems' and assign it the value 10.",
+        "answer": ["let numberOfItems = 10"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1265,
+        "exercise": "Create a variable 'username' and assign it the value 'john_doe'.",
+        "answer": ["var username = \"john_doe\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1266,
+        "exercise": "Declare a constant named 'maximumAttempts' and set its value to 3.",
+        "answer": ["let maximumAttempts = 3"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1267,
+        "exercise": "Create a variable 'temperature' and initialize it to 25 degrees Celsius.",
+        "answer": ["var temperature = 25"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1268,
+        "exercise": "Declare a constant 'username' and assign it the value 'guest'.",
+        "answer": ["let username = \"guest\""],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1269,
+        "exercise": "Declare a constant 'name' of type String and assign it the value 'John Doe'.",
+        "answer": ["let name: String = \"John Doe\""],
+        "userSolution": "",
+        "print": "print(name)",
+        "userPrint": "",
+        "console": "John Doe"
+    },
+    
+    {
+        "id": 1271,
+        "exercise": "Given the array ['apple', 'banana', 'orange', 'grape'], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1272,
+        "exercise": "Given the array [10, 20, 30, 40, 50], how do you access the last element?",
+        "answer": ["array[array.length - 1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1273,
+        "exercise": "Given the array ['dog', 'cat', 'rabbit', 'hamster'], how do you access the fourth element?",
+        "answer": ["array[3]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1274,
+        "exercise": "Given the array [true, false, true, false], how do you access the first element?",
+        "answer": ["array[0]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1275,
+        "exercise": "Given the array [5, 10, 15, 20, 25], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1276,
+        "exercise": "Given the array ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], how do you access the fourth element?",
+        "answer": ["array[3]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1277,
+        "exercise": "Given the array [100, 200, 300, 400, 500], how do you access the last element?",
+        "answer": ["array[array.length - 1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1278,
+        "exercise": "Given the array [true, false, true, false, true], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1279,
+        "exercise": "Given the array ['a', 'b', 'c', 'd', 'e'], how do you access the last element?",
+        "answer": ["array[array.length - 1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1280,
+        "exercise": "Given the array [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], how do you access the fifth element?",
+        "answer": ["array[4]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1281,
+        "exercise": "Given the array [10, 20, 30, 40, 50, 60], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1282,
+        "exercise": "Given the array ['x', 'y', 'z'], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1283,
+        "exercise": "Array Operations: Given the array [3, 6, 9, 12, 15], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1284,
+        "exercise": "String Manipulation: Given the array ['apple', 'banana', 'orange', 'grape'], how do you access the last element?",
+        "answer": ["array[array.length - 1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1285,
+        "exercise": "Conditional Access: Given the array [true, false, true, false], how do you access the fourth element?",
+        "answer": ["array[3]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1286,
+        "exercise": "Nested Arrays: Given the array [['a', 'b'], ['c', 'd'], ['e', 'f']], how do you access the second element of the first sub-array?",
+        "answer": ["array[0][1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1287,
+        "exercise": "Mixed Data Types: Given the array [10, 'hello', true, 3.14], how do you access the second element?",
+        "answer": ["array[1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1288,
+        "exercise": "Accessing Elements in Objects: Given the array of objects [{name: 'John', age: 30}, {name: 'Alice', age: 25}], how do you access the age of the second person?",
+        "answer": ["array[1].age"],
+        "userSolution": ""
+    },
+    
+    {
+        "id": 1289,
+        "exercise": "Mixed Data Types: Given the array ['apple', 10, true, {name: 'John', age: 30}], how do you access the third element?",
+        "answer": ["array[2]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1290,
+        "exercise": "Accessing Elements: Given the array [[1, 2, 3], ['a', 'b', 'c'], [true, false, true]], how do you access the second element of the second sub-array?",
+        "answer": ["array[1][1]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1291,
+        "exercise": "Nested Arrays: Given the array [[1, 2, 3], ['a', 'b', 'c'], [true, false, true]], how do you access the last element of the last sub-array?",
+        "answer": ["array[2][2]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1292,
+        "exercise": "Mixed Data Types: Given the array [20, 'hello', {name: 'Alice', age: 25}, ['x', 'y', 'z']], how do you access the first element of the last sub-array?",
+        "answer": ["array[3][0]"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1293,
+        "exercise": "Accessing Elements: Given the array ['apple', ['banana', 'orange'], {fruit: 'grape', color: 'purple'}], how do you access the color of the fruit object?",
+        "answer": ["array[2].color"],
+        "userSolution": ""
+    },
+
+    {
+        "id": 1294,
+        "exercise": "Nested Arrays: Given the array [[1, 2], [[3, 4], [5, 6]], [[[7, 8], [9, 10]], [[11, 12], [13, 14]]]], how do you access the second element of the second sub-array of the first sub-array?",
+        "answer": ["array[1][1][1]"],
+        "userSolution": ""
+    }
+
+]
+ 
