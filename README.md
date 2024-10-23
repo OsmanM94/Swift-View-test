@@ -4,4 +4,4 @@ Interactive exercises designed to teach users the basics of Swift
 • Live on the App Store
 • My first app submission
 • Follows MVWhatever architecture
-• Internally not well-designed
+[ Internally not well-designed ]
